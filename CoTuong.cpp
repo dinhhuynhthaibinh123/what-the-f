@@ -193,8 +193,7 @@ public:
 
 int main()
 {
-	int a;
-	cout << a;
+	cout << "Thai Binh dep trai thanh lich vo dich khap vu tru";
 	return 0;
 }
 
